@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Web Design",
+      "img": "https://i.ibb.co.com/SKWzPvd/Web-Designe.png",
+      "details": "We create visually stunning and user-friendly websites tailored to your brand identity, ensuring optimal performance and engagement."
+    },
+    {
+      "id": 2,
+      "name": "SEO Services",
+      "img": "https://i.ibb.co.com/MnnXvRH/SEO-Services.png",
+      "details": "Boost your online presence and search rankings with our comprehensive SEO strategies, including keyword optimization, technical SEO, and content marketing."
+    },
+    {
+      "id": 3,
+      "name": "Video Marketing",
+      "img": "https://i.ibb.co.com/QKfpjkV/video-marketing.png",
+      "details": "Engage your audience with compelling video content that drives conversions, brand awareness, and storytelling excellence."
+    },
+    {
+      "id": 4,
+      "name": "Ads Services",
+      "img": "https://i.ibb.co.com/WyNfSC1/ads-services.png",
+      "details": "Maximize ROI with targeted ad campaigns across platforms like Google, Facebook, and Instagram, designed to reach the right audience at the right time."
+    },
+    {
+      "id": 5,
+      "name": "Digital Marketing",
+      "img": "https://i.ibb.co.com/ZBSc5yq/Digital-marketing.png",
+      "details": "Leverage our full-suite digital marketing services, including social media management, email campaigns, and analytics, to grow your business online."
+    },
+    {
+      "id": 6,
+      "name": "Graphic Design",
+      "img": "https://i.ibb.co.com/dGX3yJ4/graphic-design.png",
+      "details": "Transform your ideas into stunning visuals with our professional graphic design services, covering branding, print materials, and digital assets."
+    }
+  ]
+  
