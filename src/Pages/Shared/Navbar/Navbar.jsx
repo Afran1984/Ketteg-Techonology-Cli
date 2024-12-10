@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
-import imageIcon from '../../../../public/Image/ketteg-tecnology.png'
+import imageIcon from '../../../../public/Image/ketteg-tecnology.png';
+import { TfiEmail } from "react-icons/tfi";
 
 
 
@@ -8,7 +9,7 @@ const Navbar = () => {
 
     const navOption = <>
     <li><Link to="/">Home</Link></li>
-    <li><Link to="/menu">Our Services</Link></li>
+    <li><Link to="/services">Our Services</Link></li>
     <li><Link to="/order/salad">Contact</Link></li>
     <li><Link to="/order/salad">Abouts</Link></li>
     </>
@@ -44,7 +45,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn">Button</a>
+                <a className="btn"><TfiEmail size={28} color="#081d3b" /></a>
             </div>
         </div>
     );
