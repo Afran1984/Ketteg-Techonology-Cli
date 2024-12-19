@@ -10,8 +10,8 @@ const Navbar = () => {
     const navOption = <>
     <li><Link to="/">Home</Link></li>
     <li><Link to="/services">Our Services</Link></li>
-    <li><Link to="/order/salad">Contact</Link></li>
-    <li><Link to="/order/salad">Abouts</Link></li>
+    <li><Link to="/contact">Contact</Link></li>
+    <li><Link to="/about">Abouts</Link></li>
     </>
     return (
         <div className="navbar bg-[#f3f3f3]">
