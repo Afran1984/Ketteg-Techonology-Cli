@@ -30,7 +30,6 @@ const Contact = () => {
                     <div>
                         <h1 className='text-3xl uppercase'>Chittagong</h1>
                         <h1 className='text-2xl mt-2'>Mozaffer Nagar Residential Area</h1>
-                        <p className='text-2xl mt-2'>Profrssor Village, 3rd floor</p>
                         <h1 className='text-2xl mt-2'>Polytechnic</h1>
                         <h1 className='text-2xl mt-2'>Bayejid Bostami</h1>
                         <h1 className='text-2xl mt-2'>Chittagong 4209</h1>

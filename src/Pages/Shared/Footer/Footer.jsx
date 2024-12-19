@@ -2,7 +2,8 @@ import imagefooter from '../../../../public/Image/ketteg-tecnology.png';
 import { NavLink } from 'react-router-dom';
 const Footer = () => {
     return (
-        <footer className="footer bg-base-200 text-base-content p-10">
+        <footer className='bg-base-200 p-3'>
+        <nav className="footer bg-base-200 text-base-content">
             <aside>
                 <img className='h-[150px] w-[180px]' src={imagefooter} alt="" />
                 <p>
@@ -32,6 +33,8 @@ const Footer = () => {
                 <a className="link link-hover">Privacy policy</a>
                 <a className="link link-hover">Cookie policy</a>
             </nav>
+        </nav>
+        <p className='text-center'>Mozaffer Nagar Residential Area, Polytechnic, Chittagong 4209</p>
         </footer>
     );
 };
